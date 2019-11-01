@@ -1,5 +1,6 @@
 # E-Greeting-App
 
+This is a startup guide for setting up your project. This Repo for React Native Greeting Wish App!
 
 ## Screenshots
 
