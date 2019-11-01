@@ -6,16 +6,22 @@ This is a startup guide for setting up your project. This Repo for React Native 
 
 
 <p>
-<img src="https://github.com/JadavChirag/connect-app/blob/master/screens/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202019-05-26%20at%2014.49.26.png" width = "400">
-<img src="https://github.com/JadavChirag/connect-app/blob/master/screens/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202019-05-26%20at%2014.50.50.png" alt="upload photo example"width = "400" >
-<img src="https://github.com/JadavChirag/connect-app/blob/master/screens/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202019-05-26%20at%2014.51.50.png" alt="go to a profile from feed" width = "400">
-<img src="https://github.com/JadavChirag/connect-app/blob/master/screens/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202019-05-26%20at%2014.52.24.png" alt="edit profile example" width = "400" >
-<img src="https://github.com/JadavChirag/connect-app/blob/master/screens/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202019-05-26%20at%2014.52.47.png" alt="comment and activity feed example" width = "400">
+<img src="https://github.com/JadavChirag/E-Greeting-App/blob/master/App%20SS/iOS/Simulator%20Screen%20Shot%20-%20iPhone%20X%CA%80%20-%202019-11-02%20at%2000.36.45.png" width = "400">
+<img src="https://github.com/JadavChirag/E-Greeting-App/blob/master/App%20SS/iOS/Simulator%20Screen%20Shot%20-%20iPhone%20X%CA%80%20-%202019-11-02%20at%2001.26.36.png" alt="upload photo example"width = "400" >
+<img src="https://github.com/JadavChirag/E-Greeting-App/blob/master/App%20SS/iOS/Simulator%20Screen%20Shot%20-%20iPhone%20X%CA%80%20-%202019-11-02%20at%2001.29.31.png" alt="go to a profile from feed" width = "400">
   
-<img src="https://github.com/JadavChirag/connect-app/blob/master/screens/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202019-05-26%20at%2014.53.12.png" alt="comment and activity feed example" width = "400">
-<img src="https://github.com/JadavChirag/connect-app/blob/master/screens/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202019-05-26%20at%2014.53.27.png" alt="comment and activity feed example" width = "400">
-<img src="https://github.com/JadavChirag/connect-app/blob/master/screens/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202019-05-26%20at%2014.53.42.png" alt="comment and activity feed example" width = "400">
+<img src="https://github.com/JadavChirag/E-Greeting-App/blob/master/App%20SS/iOS/Simulator%20Screen%20Shot%20-%20iPhone%20X%CA%80%20-%202019-11-02%20at%2001.31.33.png" alt="edit profile example" width = "400" >
+<img src="https://github.com/JadavChirag/E-Greeting-App/blob/master/App%20SS/iOS/Simulator%20Screen%20Shot%20-%20iPhone%20X%CA%80%20-%202019-11-02%20at%2001.34.08.png" alt="comment and activity feed example" width = "400">
+  
+<img src="https://github.com/JadavChirag/E-Greeting-App/blob/master/App%20SS/iOS/Simulator%20Screen%20Shot%20-%20iPhone%20X%CA%80%20-%202019-11-02%20at%2002.28.44.png" alt="comment and activity feed example" width = "400">
+<img src="https://github.com/JadavChirag/E-Greeting-App/blob/master/App%20SS/iOS/Simulator%20Screen%20Shot%20-%20iPhone%20X%CA%80%20-%202019-11-02%20at%2002.56.58.png" alt="comment and activity feed example" width = "400">
+<img src="https://github.com/JadavChirag/E-Greeting-App/blob/master/App%20SS/iOS/Simulator%20Screen%20Shot%20-%20iPhone%20X%CA%80%20-%202019-11-02%20at%2002.27.36.png" alt="comment and activity feed example" width = "400">
 </p>
+
+## Videos
+# Android : App SS/Android/Screenrecorder-2019-11-02-03-29-56-686.mp4
+# iOS : App SS/iOS/iOS App .mov
+
 
 ## Prerequiestes
 * Node v8.3+
@@ -63,3 +69,5 @@ Now go to project folder and run this command:
 > react-native run-android
 ```
 >Everythig is setup and you are good to go now. Happy Coding :)
+
+
